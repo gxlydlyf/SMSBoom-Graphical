@@ -15,16 +15,16 @@
 ## 1.解压软件
 ### ①.解压压缩包
 下载文件后，解压缩里面的文件到任意位置。
-![图片介绍](https://img-blog.csdnimg.cn/016562d7013e44f1aaa6ca24835d8c85.png)
+![图片介绍](https://github.com/gxlydlyf/SMSBoom-Graphical/blob/main/Photo/Trfetp.png)
 ### ②.右键拖动hz.exe到桌面。（此为创建快捷方式，可以不创建。）
-![图片介绍](https://img-blog.csdnimg.cn/99672efbd3164228842dde9316631a3c.png)
+![图片介绍](https://github.com/gxlydlyf/SMSBoom-Graphical/blob/main/Photo/cas.png)
  选择“在当前位置创建快捷方式”。
- ![图片介绍](https://img-blog.csdnimg.cn/c27a078948a84e359e1c1396ec445000.png)
+![图片介绍](https://github.com/gxlydlyf/SMSBoom-Graphical/blob/main/Photo/castwo.png)
  ### ③.双击打开即可运行。
-![图片介绍](https://img-blog.csdnimg.cn/22adb9ea27ca474180c6e86a3fd51e36.png)
+![图片介绍](https://github.com/gxlydlyf/SMSBoom-Graphical/blob/main/Photo/run.png)
 ## 软件内使用
 软件截图
-![软件截图](https://img-blog.csdnimg.cn/c1ca3dd2efc1498e9deebd861904dd88.png)
+![软件截图](https://github.com/gxlydlyf/SMSBoom-Graphical/blob/main/Photo/app.png)
 使用方法点说明。
 
 # 三、打包环境
@@ -37,7 +37,7 @@
         最早的成品版本，有线程数，轮番，输入手机号代理等功能。
 
    软件截图：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/80b31558583a4f469bdfc3fa3c936503.png)​
+![在这里插入图片描述](https://github.com/gxlydlyf/SMSBoom-Graphical/blob/main/Photo/app.png)
 
 已知BUG:
 
@@ -53,7 +53,7 @@
 
 软件截图：
 
-​![在这里插入图片描述](https://img-blog.csdnimg.cn/bccbdf254c944f64a9891cee0eda088b.png)
+![在这里插入图片描述](https://github.com/gxlydlyf/SMSBoom-Graphical/blob/main/Photo/app.png)
 
 
  已知BUG：
@@ -71,5 +71,3 @@
 >邮箱1:x1k1l1@163.com  邮箱2:x1k1l1@outlook.com 
 
 本人为python萌新，不喜勿喷。
-
-由于是CSDN写的所以图片有些水印不要在意。
