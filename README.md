@@ -1,4 +1,3 @@
-﻿@[TOC](SMSBoom Graphics（短信轰炸图形化）)
 # 一、介绍
 此图形化程序是根据[GitHub开源项目SMSBoom](https://github.com/OpenEthan/SMSBoom)制作的，具体信息可前往前面的链接查看。
 .
