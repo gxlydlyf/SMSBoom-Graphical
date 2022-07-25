@@ -61,7 +61,11 @@
         无法判断手机号输入的是否是数字。
 蓝奏云下载
 > [SMSBoom图形化1.1下载 密码：1234](https://wwn.lanzoub.com/iTebn08btu6f)
-
+# Releases内容
+## 下载软件
+选择需要的版本，下载“SMSBoom-Graphical.v版本号.zip”，解压打开即可使用。
+## 下载源代码
+选择需要的版本，下载“SMSBoom-Graphical-source.v版本号.zip”，解压打开即可查看。
 # 写在最后
 如有BUG、建议或其它问题请联系作者：
 >邮箱1:x1k1l1@163.com  邮箱2:x1k1l1@outlook.com 
