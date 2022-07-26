@@ -69,8 +69,11 @@
 # 写在最后
 如有BUG、建议或其它问题请联系作者：
 >邮箱1:x1k1l1@163.com  邮箱2:x1k1l1@outlook.com
+
 >邮箱3:x2k2l2@163.com  邮箱4:x3k3l3@163.com
+
 >邮箱5:x4k4l4#163.com  邮箱6:x5k5l5@163.com
+
 >邮箱7:x6k6l6@163.com  邮箱8:x7k7l7@163.com
 
 本人为python萌新，不喜勿喷。
